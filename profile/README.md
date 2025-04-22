@@ -1,4 +1,4 @@
-🙌 Welcome to the DNB Bioinformatics Core!
+🙌 Welcome to the DNB Bioinformatics Core at the St. Jude Children's Research Hospital!
 
 This is our shared space for project data analysis, training materials, and resources developed by the team. Whether you're collaborating on a pipeline, learning something new, or just exploring, you're in the right place. We provide advanced bioinformatic services for investigators to leverage genomics, proteomics, and metabolomics (omics) data. Dive in and make yourself at home!
 
